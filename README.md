@@ -1,2 +1,0 @@
-# challange
-Gmund Coding Challange
